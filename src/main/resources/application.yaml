@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: postgres
+    password: passpsql
+    url: jdbc:postgresql://localhost:5432/postgres
+  flyway:
+    schemas: public
