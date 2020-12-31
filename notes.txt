@@ -1,1 +1,2 @@
--Dmaven.repo.local=/alternate/repo/location - overrides location of local repository
+-Dmaven.repo.local=/alternate/repo/location - overrides location of local repository - DOES NOT WORK
+mvn --settings settings.xml - WORKS
