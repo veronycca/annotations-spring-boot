@@ -1,0 +1,1 @@
+-Dmaven.repo.local=/alternate/repo/location - overrides location of local repository
